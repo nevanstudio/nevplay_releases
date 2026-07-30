@@ -40,12 +40,6 @@ Unlock features previously reserved for expensive cloud services, handled locall
 - **AI Playlist Architect**: Generate mood-perfect playlists from a simple text prompt.
 - **Deep Song Insights**: Discover the story, mood, and technical details behind every beat.
 
-### 🛡️ **NevPlay Guard™**
-Experience "Self-Aware Audio." NevPlay is the first player to actively protect your long-term hearing:
-- **Age-Aware Volume Limits**: Dynamic protection calibrated to your age profile.
-- **Smart Listening Breaks**: Automatic reminders and pauses during high-exposure sessions.
-- **Safety Snapshot**: Real-time monitoring of your daily "Sound Budget."
-
 ### 🎨 **Fluent & Expressive Design**
 - **Material You 3.0**: A UI that breathes with your wallpaper colors.
 - **Expressive Shapes**: Organic, adaptive forms that make every interaction feel alive.
